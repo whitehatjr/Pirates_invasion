@@ -1,2 +1,2 @@
-# Pirates_invasion
-trial
+# PiratesInvasion
+pirates invasion game
